@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron González</h1>
 <h3 align="center">A systems engineering student from the National Technological University (UTN) from Buenos Aires</h3>
 
-- 🌱 I’m currently learning **C++, Python, Flask, Django**
+- 🌱 I’m currently learning **C++, Python, 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaronGonzalez99?tab=repositories](https://github.com/AaronGonzalez99?tab=repositories)
 
